@@ -13,9 +13,9 @@ The core of Infera is depicted as
 ```
 Infera
 ├── profiling                           # Scripts and instructions for profiling
-├── kernel_generator              # Source code for tile-based compiler
-├── inference_engine              # Source code for online scheduler
-├── test                                    # Examples for running
+├── kernel_generator                    # Source code for tile-based compiler
+├── inference_engine                    # Source code for online scheduler
+├── test                                # Examples for running
 └── 3rdparty                            # Third-party libraries
 
 ```
