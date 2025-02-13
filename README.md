@@ -6,8 +6,8 @@ Infera currently supports NVIDIA GPUs.
 
 The core of Infera is depicted as
 
-<img src="./compiler.png" alt="./compiler.png" height="320cm">
-<img src="./scheduler.png" alt="./scheduler.png" height="320cm">
+<img src="./compiler.png" alt="./compiler.png" width="320cm">
+<img src="./scheduler.png" alt="./scheduler.png" width="320cm">
 
 ## Project Structure
 ```
